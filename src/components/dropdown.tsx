@@ -12,7 +12,7 @@ function Root({ className, ...rest }: RootProps) {
   );
 }
 
-interface LabelProps extends React.HTMLProps<HTMLLabelElement> {}
+type LabelProps = React.HTMLProps<HTMLLabelElement>
 function Label(props: LabelProps) {
   return (
     <label
