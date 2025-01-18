@@ -33,25 +33,25 @@ Before you can run or build this project, make sure you have the following insta
 
 2. Navigate to the project directory:
 
-  ```bash
-       cd vehicle-filter-app
-    ```
+   ```bash
+   cd vehicle-filter-app
+   ```
 
 3. Install the project dependencies:
-  ```bash
-       npm install
-    ```
+   ```bash
+   npm install
+   ```
   
 
 4. Create a .env.local file in the root of the project and add your API key or other necessary environment variables:
    ```bash
-        API=
-    ```
+   API=
+   ```
 
 
 5. Start the development server:
-    ```bash
-        npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 
 
